@@ -1,0 +1,14 @@
+# Dependency directory
+node_modules
+
+# OS metadata
+.DS_Store
+
+# API keys and secrets
+.env
+
+# Ignore built ts files
+dist/**/*
+
+# ignore yarn.lock
+yarn.lock
