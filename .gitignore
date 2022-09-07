@@ -1,3 +1,6 @@
+# next.js
+/.next/
+
 # Dependency directory
 node_modules
 
